@@ -184,8 +184,6 @@ We use a MicroServices Architecture.
     * music21 (support choice)
 
 
-<img src="https://github.com/jhu-oose/2017-group-12-wiki/blob/master/architecturediagram/OOSEArchitectureDiagram - ERD.png" >
-
 ## Initial Code
 
 The django framework has been created with two apps, one for the dealing with the accounts and one for the music engine. Some of the login code was started, urls and views were set up, login.html was created, settings were changed so that login.html is loaded upon site startup.
