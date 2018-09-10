@@ -78,19 +78,19 @@ MP3 recordings the user wants to associate to a specific song in order to track 
 
 ## UI Sketches
 ### User portal with list of uploaded songs
-<img src="https://github.com/jhu-oose/2017-group-12/blob/master/UI_sketches/Profile.png" >
+<img src="https://github.com/jhu-oose/2017-group-12-wiki/blob/master/UI_sketches/Profile.png" >
 
 ### Mechanism to upload new sheet music
-<img src="https://github.com/jhu-oose/2017-group-12/blob/master/UI_sketches/Upload Sheet Music.png" >
+<img src="https://github.com/jhu-oose/2017-group-12-wiki/blob/master/UI_sketches/Upload Sheet Music.png" >
 
 ### Mechanism to upload new recordings
-<img src="https://github.com/jhu-oose/2017-group-12/blob/master/UI_sketches/Upload Recordings.png" >
+<img src="https://github.com/jhu-oose/2017-group-12-wiki/blob/master/UI_sketches/Upload Recordings.png" >
 
 ### Sheet music view with song tracking and ability to auto-generate matching sound
-<img src="https://github.com/jhu-oose/2017-group-12/blob/master/UI_sketches/Play.png" >
+<img src="https://github.com/jhu-oose/2017-group-12-wiki/blob/master/UI_sketches/Play.png" >
 
 ### Comparison view for comparing recorded versions with auto-generated sound and sheet
-<img src="https://github.com/jhu-oose/2017-group-12/blob/master/UI_sketches/Side-by-side.png" >
+<img src="https://github.com/jhu-oose/2017-group-12-wiki/blob/master/UI_sketches/Side-by-side.png" >
 
 ## Use Cases
 
@@ -157,7 +157,7 @@ MP3 recordings the user wants to associate to a specific song in order to track 
 *Documentation can be seen at https://giancroso.github.io
 
 ## Class Diagram
-![](https://github.com/jhu-oose/2017-group-12/blob/master/UML%20Sketch/Groove.png)
+![](https://github.com/jhu-oose/2017-group-12-wiki/blob/master/UML%20Sketch/Groove.png)
 ## Architecture
 We use a MicroServices Architecture.
 ### Client Side
@@ -184,7 +184,7 @@ We use a MicroServices Architecture.
     * music21 (support choice)
 
 
-<img src="https://github.com/jhu-oose/2017-group-12/blob/master/architecturediagram/OOSEArchitectureDiagram - ERD.png" >
+<img src="https://github.com/jhu-oose/2017-group-12-wiki/blob/master/architecturediagram/OOSEArchitectureDiagram - ERD.png" >
 
 ## Initial Code
 
