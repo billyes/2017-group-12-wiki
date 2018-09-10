@@ -61,7 +61,7 @@ The user account is the entity that identifies an user and what data he has acce
 * Song:  
 A song is the entity responsible for associating all the information the user has related to each individual piece of music. It is uniquely identified by the title and author. The user can optionally associate a default tempo value that will be used to track the sheet. The following are the main components:
     * Song title
-    * Author
+    * Authorgg
     * Default Tempo
     * Sheet Music
     * Recording List
@@ -75,19 +75,19 @@ MP3 recordings the user wants to associate to a specific song in order to track 
 ## UI Sketches
 
 ### User portal with list of uploaded songs
-<img src="https://github.com/jhu-oose/2017-group-12/blob/master/UI_sketches/Profile.png" >
+<img src="https://github.com/jhu-oose/2017-group-12-wiki/blob/master/UI_sketches/Profile.png" >
 
 ### Mechanism to upload new sheet music
-<img src="https://github.com/jhu-oose/2017-group-12/blob/master/UI_sketches/Upload Sheet Music.png" >
+<img src="https://github.com/jhu-oose/2017-group-12-wiki/blob/master/UI_sketches/Upload Sheet Music.png" >
 
 ### Mechanism to upload new recordings
-<img src="https://github.com/jhu-oose/2017-group-12/blob/master/UI_sketches/Upload Recordings.png" >
+<img src="https://github.com/jhu-oose/2017-group-12-wiki/blob/master/UI_sketches/Upload Recordings.png" >
 
 ### Sheet music view with song tracking and ability to auto-generate matching sound
-<img src="https://github.com/jhu-oose/2017-group-12/blob/master/UI_sketches/Play.png" >
+<img src="https://github.com/jhu-oose/2017-group-12-wiki/blob/master/UI_sketches/Play.png" >
 
 ### Comparison view for comparing recorded versions with auto-generated sound and sheet
-<img src="https://github.com/jhu-oose/2017-group-12/blob/master/UI_sketches/Side-by-side.png" >
+<img src="https://github.com/jhu-oose/2017-group-12-wiki/blob/master/UI_sketches/Side-by-side.png" >
 
 ## Use Cases
 ### Upload Sheet Music
